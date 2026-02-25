@@ -1,0 +1,67 @@
+# Build results and output
+bin/
+obj/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio
+.vs/
+.vscode/
+*.sln.docstates
+*.userprefs
+*.suo
+*.user
+*.userosscache
+*.sln.user
+
+# Entity Framework
+*.edmx.diagram
+.edmx
+
+# NuGet
+.nupkg
+.snupkg
+packages/
+*.nupkg
+.nuget/
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# ReSharper
+_ReSharper*/
+*.ReSharper.user
+*.resharper.user
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+*.sln.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logging
+request_logs.txt
+*.log
+
+# Misc
+.env
+.env.local
+appsettings.Development.json
